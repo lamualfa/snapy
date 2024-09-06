@@ -18,9 +18,9 @@
 
 <p align="center">
 <span>Available on</span> 
-<a href="#windows">Windows</a> |
-<a href="#macos">MacOS</a> |
-<a href="#linux">Linux</a>
+<b>Windows</b> |
+<b>MacOS</b> |
+<b>Linux</b>
 </p>
 
 <br>
