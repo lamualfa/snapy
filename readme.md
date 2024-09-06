@@ -5,13 +5,13 @@
 <h1 align="center">Snapy</h1>
 
 <p align="center">
- Web screenshots in multiple screen sizes.
+ 📸 Web screenshots in multiple screen sizes.
 </p>
 
 <br>
 
 <p align="center">
-<img src="/assets/screenshot-1.png" style="width:725px;" />
+<img src="/assets/screenshot-1.png" style="width:825px;" />
 </p>
 
 <br>
