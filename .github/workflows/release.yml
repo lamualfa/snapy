@@ -15,7 +15,6 @@ jobs:
           update_release_body: true
           github_token: ${{ secrets.RELEASE_TOKEN }}
           request_rate: 4
-          vt_monitor: true
           files: |
             .exe$
             .zip$
