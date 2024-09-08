@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/assets/snapy.png" style="width:125px;" />
+<img src="/assets/snapy.png" style="width:100px;" />
 </p>
 
 <h1 align="center">Snapy</h1>
