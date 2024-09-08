@@ -17,9 +17,9 @@ jobs:
           request_rate: 4
           vt_monitor: true
           files: |
-            *.exe$
-            *.zip$
-            *.dmg$
-            *.snap$
-            *.deb$
-            *.rpm$
+            .exe$
+            .zip$
+            .dmg$
+            .snap$
+            .deb$
+            .rpm$
