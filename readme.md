@@ -25,6 +25,13 @@
 
 <br>
 
+## Features
+
+- **Snap** - Screenshot a website into an image in multiple screen sizes
+- **Live view** - View a website in real-time on multiple screen sizes
+
+</br>
+
 ## Downloads
 
 ### Windows
