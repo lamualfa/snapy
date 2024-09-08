@@ -36,22 +36,22 @@
 
 ### Windows
 
-[Installer](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-win-x64-installer.exe) | [Portable](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-win-x64-portable.exe)
+[Installer](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-win-x64-installer.exe) | [Portable](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-win-x64-portable.exe)
 
 ### MacOS
 
-[ZIP](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-mac-universal.zip) | [DMG](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-mac-universal.dmg)
+[ZIP](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-mac-universal.zip) | [DMG](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-mac-universal.dmg)
 
 ### Linux
 
 ###### Universal
 
-[Snap](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-linux-amd64.snap)
+[Snap](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-linux-amd64.snap)
 
 ###### Debian / Ubuntu
 
-[DEB](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-linux-amd64.deb)
+[DEB](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-linux-amd64.deb)
 
 ###### Fedora / CentOS / RHEL
 
-[RPM](https://github.com/lamualfa/snapy/releases/download/1.0.1/snapy-1.0.1-linux-x86_64.rpm)
+[RPM](https://github.com/lamualfa/snapy/releases/download/v1.0.1/snapy-1.0.1-linux-x86_64.rpm)
