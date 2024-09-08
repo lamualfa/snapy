@@ -8,6 +8,13 @@
  📸 Web screenshots in multiple screen sizes.
 </p>
 
+<p align="center">
+<a href="https://github.com/lamualfa/snapy/releases/latest">
+<img src="https://img.shields.io/badge/-VirusTotal PASSED-%23394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+</a>
+</p>
+
+<br>
 <br>
 
 <p align="center">
